@@ -2,6 +2,7 @@
 ## Medical Note Summarization API incorporating ChatML Custom Dataset Processing
 
 This project provides a **Flask-based API** to process medical notes, extract meaningful sections, and generate summaries using **OpenAI's GPT-3.5-turbo** model. It also formats the extracted information and summaries into a structured ChatML format.
+The motivation for this is to prepare dataset in this format for fine tuning.
 
 ---
 
